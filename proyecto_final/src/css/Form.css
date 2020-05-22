@@ -1,0 +1,72 @@
+form{
+    margin: 0 5%;
+}
+
+label{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .9rem;
+    margin-bottom: 5px;
+}
+
+input{
+    border: solid 1px #bfa864;
+    margin-bottom: 1.2%;
+    width: 100%;
+    height: 35px;
+}
+
+button{
+    font-size: 1.2rem;
+    font-weight: bold;
+    background-color:#bfa864;
+    color: #353535;
+    border: solid 1px #353535;
+    padding: .5%;
+    width: 100%;
+}
+
+.titleResul{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.6rem;
+    font-weight: bold;
+    margin-bottom: 5px;
+
+}
+
+.usuLog{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.6rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 2%;
+
+}
+
+.LoginForm{
+   margin: 5% 0 10% 0;
+    
+}
+
+table{
+    width: 100%;
+}
+.Text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin: 0px;
+    color: #353535;   
+    padding: 1%;
+}
+
+.Resul{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.9rem;
+    font-weight: normal;
+    font-style: italic;
+    margin: 0px;
+    color: #353535;   
+    padding: 1%;
+    background-color: #e4e4e4;
+
+}
